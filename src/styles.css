@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.image {
+  width: 400px;
+  height: 400px;
+}
+.day-image {
+  background-color: gray;
+}
+
+.night-image {
+  background-color: black;
+}
